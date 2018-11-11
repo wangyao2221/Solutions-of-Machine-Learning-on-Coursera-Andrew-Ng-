@@ -1,1 +1,1 @@
-# Solutions-of-Machine-Learning on Coursera(Andrew Ng)
+# Solutions of Machine Learning on Coursera(Andrew Ng)
